@@ -1,0 +1,3 @@
+This code was written for testing purpos only.
+It prints the permutations of the input commandline string.
+can cause memory crash for string with length > 10.
